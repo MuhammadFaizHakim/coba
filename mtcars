@@ -1,3 +1,4 @@
 mtcars
-summary(mtcars)
+summary(mtcars$mpg)
 str(mtcars)
+hist(mtcars$mpg)
